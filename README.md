@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SJTheGreat06
-- 👀 I’m interested in Coding, Privacy Movement, Open Source Softwares, Making new stuff and most importingly LinuxOS
-- 🌱 I’m currently learning HTML, Java, CSS & C++
+- 👀 I’m interested in Coding, Privacy Movement, Open Source Softwares, Making new stuff and most importingly GNU/Linux
+- 🌱 I’m currently learning HTML, Java, CSS, Flutter Development, Kotlin, Cyber Security and Graphics Desiging.
 - 📫 You can reach me on jainsambhav585@protonmail.com or jainsambhav@tutanota.com
 
 <!---
