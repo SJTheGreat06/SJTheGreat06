@@ -54,7 +54,7 @@ Currently exploring:
 
 ---
 
-> "Privacy is not an option, and it shouldn't be the price we accept for just getting on the internet." – **Gary Kovacs**
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=monokai&animation=grow_out_in&layout=default&font=default&quoteType=quote-for-the-day&bgColor=black)
 
 ### 🌟 **Some Cool Repos to Check Out**
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SJTheGreat06&repo=SamWeather&theme=radical)](https://github.com/SJTheGreat06/SamWeather)
