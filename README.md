@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm **SJTheGreat06**
+# 👋 Hey there! I'm **Sambhav Jain**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SJTheGreat06&color=blueviolet&style=flat-square) ![GitHub Followers](https://img.shields.io/github/followers/SJTheGreat06?style=social) ![GitHub Stars](https://img.shields.io/github/stars/SJTheGreat06?style=social)
 
